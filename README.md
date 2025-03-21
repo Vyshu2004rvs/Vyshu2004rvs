@@ -18,7 +18,7 @@ I am a tech enthusiast deeply interested in Machine Learning, Deep Learning, and
 ## 🏆 Featured Projects  
 ### 🔬 **AI & Computer Vision**
 - 🥔 **[Potato Disease Classification](#)** - Detects Early and Late Blight using CNN (TensorFlow + Gradio)  
-- 🗑 **[Waste Segregation Using CNN](#)** - Classifies waste using TrashNet & TACO datasets   
+- 🗑 **[Waste Segregation Using CNN](#)** - Classifies waste using TrashNet datasets   
 
 ### 🤖 **Conversational AI & NLP**
 - 🍽 **[Restaurant Assistant Chatbot](#)** - Built using Dialogflow & FastAPI for restaurant queries  
