@@ -18,7 +18,10 @@ I am a tech enthusiast deeply interested in Machine Learning, Deep Learning, and
 ## 🏆 Featured Projects  
 ### 🔬 **AI & Computer Vision**
 - 🥔 **[Potato Disease Classification](#)** - Detects Early and Late Blight using CNN (TensorFlow + Gradio)  
-- 🗑 **[Waste Segregation Using CNN](#)** - Classifies waste using TrashNet datasets   
+- 🗑 **[Waste Segregation Using CNN](#)** - Classifies waste using TrashNet datasets
+- 🩺 **[Chest X-ray Multi-task Classification with Explainability (XAI)](#)** A deep learning-powered project for classifying chest X-ray images into **COVID-19**, **Pneumonia**, or **Normal**, along with **severity 
+      prediction** and **Grad-CAM visual explanations** to highlight affected regions.
+
 
 ### 🤖 **Conversational AI & NLP**
 - 🍽 **[Restaurant Assistant Chatbot](#)** - Built using Dialogflow & FastAPI for restaurant queries  
