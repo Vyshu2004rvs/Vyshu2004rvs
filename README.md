@@ -41,8 +41,7 @@ I am a tech enthusiast deeply interested in Machine Learning, Deep Learning, and
 
 ---
 
-## 📬 Let's Connect!  
-📌 **GitHub:** (https://github.com/Vyshu2004rvs)  
+## 📬 Let's Connect!    
 📌 **LinkedIn:** (https://linkedin.com/in/gvyshnavi)  
 📌 **Email:** gorkalvyshu@gmail.com  
 
